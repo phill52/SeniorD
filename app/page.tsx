@@ -4,7 +4,7 @@ import Image from "next/image";
 export default function Home() {
 	return (
 		// Use a flex row instead of flex column
-		<div className="flex min-h-screen bg-[#CBD5E1]">
+		<div className="flex min-h-screen bg-[#f0f4f7]">
 			<Sidebar />
 			<main className="flex-grow p-24">
 				<div className="flex flex-col items-center">
